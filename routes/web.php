@@ -16,4 +16,3 @@ Route::get('/employees', 'EmployeesController@index');
 Route::post('/employees', 'QueryController@search');
 Route::get('/webservice', 'HomeController@webservice');
 Route::get('/employee/{tokenId?}', 'EmployeesController@show');
-Route::resource('queries', 'QueryController');
