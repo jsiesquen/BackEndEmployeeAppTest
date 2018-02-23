@@ -20,7 +20,7 @@ Obtener todos los empleados que tienen salario entre 1000 y 1500 dólares.
 
 **Laravel Route List**
 
-<p align="center"><img src="https://www.dropbox.com/s/coqu3gj5u9zf8ep/RouteList.png?dl=0"></p>
+<p align="center"><a href="https://www.dropbox.com/s/coqu3gj5u9zf8ep/RouteList.png?dl=0">View Image</a></p>
 
 **REST Web Service Documentation**
 
